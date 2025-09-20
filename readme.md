@@ -22,10 +22,12 @@ Here, I solve **one LeetCode problem every day** in **C++** to sharpen my proble
 ```
 📂 daily-leetcode-cpp
 │
+├── 📁 daily/         # Daily practice problems
 ├── 📁 Easy/          # Solutions for Easy problems
 ├── 📁 Medium/        # Solutions for Medium problems
 ├── 📁 Hard/          # Solutions for Hard problems
 └── README.md
+
 ```
 
 Each file follows the format:
