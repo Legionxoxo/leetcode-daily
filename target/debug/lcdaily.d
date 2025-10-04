@@ -1,0 +1,1 @@
+C:\projects\lcdaily\lcdaily\target\debug\lcdaily.exe: C:\projects\lcdaily\lcdaily\src\daily\_04oct2025\mod.rs C:\projects\lcdaily\lcdaily\src\daily\_04oct2025\solution.rs C:\projects\lcdaily\lcdaily\src\daily\mod.rs C:\projects\lcdaily\lcdaily\src\main.rs
