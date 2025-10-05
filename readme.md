@@ -2,10 +2,10 @@ Here's a **clean and professional README** you can use for your LeetCode daily p
 
 ---
 
-# 🧩 Daily LeetCode in C++
+# 🧩 Daily LeetCode in Rust
 
 Welcome to my **Daily LeetCode Solutions** repository!
-Here, I solve **one LeetCode problem every day** in **C++** to sharpen my problem-solving, data structures, and algorithms skills.
+Here, I solve **one LeetCode problem every day** in **Rust [pivoted from C++]** to sharpen my problem-solving, data structures, and algorithms skills.
 
 ---
 

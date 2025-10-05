@@ -6,6 +6,6 @@ fn main() {
 
     for (date, solution) in solutions {
         let result = solution();
-        println!("{}: {}", date, result);
+        println!("{}: {:#?}", date, result);
     }
 }

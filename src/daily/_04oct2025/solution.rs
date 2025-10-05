@@ -26,7 +26,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_max_water() {
+    fn test_run() {
         let height = vec![1, 8, 6, 2, 5, 4, 8, 3, 7];
         let result = super::Solution::run(height);
         assert_eq!(result, 49);

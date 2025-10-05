@@ -1,0 +1,12 @@
+# Ignore Cargo build artifacts
+/target/
+
+# Ignore executables (optional, if you don’t want them tracked)
+/*.exe
+
+# Ignore IDE/editor specific files
+*.swp
+*.swo
+*.vscode/
+.idea/
+
